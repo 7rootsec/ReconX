@@ -12,9 +12,6 @@ A powerful, all-in-one **automated reconnaissance tool** designed specifically f
 ReconX automatically discovers subdomains, extracts JS files, scans for endpoints, detects leaked secrets, and performs directory fuzzing — all in one run.
 
 
-## 📸 Preview (Optional)
-
-> *(Replace with real screenshots)*
 
 ```
 [+] Starting full recon for: target.com
@@ -114,8 +111,8 @@ pip install requests
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO
-cd YOUR_REPO
+git clone https://github.com/7rootsec/BugBountyRecon-Script
+cd BugBountyRecon-Script
 python3 recon.py
 ```
 
