@@ -194,6 +194,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  📞 Contact & Support
 If you find any bugs, have questions, or want to suggest improvements, feel free to reach out to me:
 
-Instagram: @youssef_amarti1
 
 Discord: .sh4de.
