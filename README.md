@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Recon-Bug%20Bounty-orange?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/7rootsec/ReconX?style=for-the-badge">
 </p>
 
 A powerful, all-in-one **automated reconnaissance tool** designed specifically for **bug bounty hunters**, **pentesters**, and **security researchers**.
