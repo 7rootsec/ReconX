@@ -195,4 +195,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find any bugs, have questions, or want to suggest improvements, feel free to reach out to me:
 
 
-Discord: .sh4de.
+Discord: reerdi
+
